@@ -1,6 +1,3 @@
-
-
-
 CREATE TABLE `Competention` (
   `id` int(11) NOT NULL,
   `title` varchar(95) DEFAULT NULL,
